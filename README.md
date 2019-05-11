@@ -13,6 +13,9 @@ Used Library:<br>
 <br><br>
 Screenshots<br><br>
 
-<img src=".images/ss1.PNG" width="800px"/> <BR><BR>
-<img src=".images/ss2.PNG" width="800px"/> <BR><BR>
-<img src=".images/ss2.PNG" width="800px"/> <BR><BR>
+code output example:
+<img src="./images/ss3.PNG" width="800px"/> <BR><BR>
+when process finished, created this file;
+<img src="./images/ss2.PNG" width="800px"/> <BR><BR>
+output words example;
+<img src="./images/ss2.PNG" width="800px"/> <BR><BR>
