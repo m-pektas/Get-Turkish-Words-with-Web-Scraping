@@ -3,7 +3,7 @@
 In this project it is aimed to get Turkish words with web scraping. Words starting with the letters in the list of letters in the config.py file are retrieved from the website and saved in the words.csv file.
 
 <br><br>
-Used Library:<br>
+<h3>Used Library:</h3><br>
 <ul>
   <li>urllib</li>
   <li>BeautifulSoup</li>
@@ -11,7 +11,7 @@ Used Library:<br>
 </ul>
 
 <br><br>
-Screenshots<br><br>
+<h3>Screenshots</h3><br><br>
 
 code output example:<BR>
 <img src="./images/ss3.PNG" width="500px"/> <BR><BR>
