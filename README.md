@@ -13,9 +13,9 @@ Used Library:<br>
 <br><br>
 Screenshots<br><br>
 
-code output example:
+code output example:<BR>
 <img src="./images/ss3.PNG" width="400px"/> <BR><BR>
-when process finished, created this file;
+when process finished, created this file;<BR>
 <img src="./images/ss2.PNG" width="200px"/> <BR><BR>
-output words example;
+output words example;<BR>
 <img src="./images/ss1.PNG" width="400px"/> <BR><BR>
